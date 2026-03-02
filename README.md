@@ -1,6 +1,6 @@
 # 👋 Igor Meireles de Lima Taveira  
 
-🚀 AI Engineer | Data Engineer | Backend Developer  
+AI Engineer | Data Engineer | Backend Developer  
 📍 Manaus - AM, Brasil  
 
 ---
