@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Igor Meireles de Lima Taveira  
 
-<!--
-**IgorMeirelesEng/IgorMeirelesEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Data Engineer | Backend Developer  
+📍 Manaus - AM, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim  
+
+Sou desenvolvedor com foco em **Inteligência Artificial, Engenharia de Dados e Backend**, atuando no desenvolvimento de soluções robustas, seguras e escaláveis.
+
+Atualmente sou **bolsista de P&D da Samsung**, atuando no **Projeto ECG-AI**, trabalhando com modelagem de dados, desenvolvimento de APIs, arquitetura de sistemas e processamento inteligente de informações.
+
+Tenho forte base em matemática aplicada e estatística, além de experiência prática com infraestrutura, containerização, ambientes produtivos e visualização estratégica de dados.
+
+---
+
+## Áreas de Atuação  
+
+- Machine Learning  
+- Engenharia de Dados  
+- Desenvolvimento Backend  
+- Arquitetura de APIs  
+- Processamento e validação de dados  
+- Visualização e análise exploratória de dados  
+- Sistemas escaláveis e seguros  
+
+---
+
+## 🛠️ Stack Tecnológica  
+
+### Backend
+- Python  
+- FastAPI  
+- Flask  
+- Node.js  
+
+### Dados, IA & Visualização
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+- Matplotlib  
+- Seaborn  
+- Plotly  
+- Power BI  
+
+### DevOps & Infraestrutura
+- Docker  
+- Docker Compose  
+- PostgreSQL  
+- Linux (Ubuntu Server)  
+- Nginx  
+- SSH  
+
+### Segurança
+- JWT Authentication  
+- Controle de acesso baseado em roles  
+- Boas práticas de arquitetura segura  
+
+---
+
+## Experiência Acadêmica  
+
+- Monitor de Probabilidade e Estatística  
+- Aplicação prática de Estatística Descritiva e Inferencial em Python  
+- Desenvolvimento de materiais técnicos e apoio acadêmico  
+
+---
+
+## Objetivo  
+
+Construir soluções tecnológicas que integrem:
+
+> Inteligência Artificial + Engenharia de Software + Dados  
+
+Com foco em performance, segurança, tomada de decisão orientada a dados e impacto real.
+
+---
+
+## 📫 Contato  
+
+- LinkedIn: www.linkedin.com/in/igormeirelesdelimataveira  
+- Email pessoal: igormeireles23.eng@gmail.com  
+- Email institucional: imdlta.eng24@uea.edu.br  
+
+---
+
+Aberto a colaborações em projetos de IA, engenharia de dados, visualização analítica e desenvolvimento backend.
