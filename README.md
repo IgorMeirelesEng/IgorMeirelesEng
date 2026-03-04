@@ -31,38 +31,12 @@ Tenho forte base em matemática aplicada e estatística, além de experiência p
 
 ---
 
-## 🛠️ Stack Tecnológica  
-
-### Backend
-- Python  
-- FastAPI  
-- Flask  
-- Node.js  
-
-### Dados, IA & Visualização
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- Matplotlib  
-- Seaborn  
-- Plotly  
-- Power BI  
-
-### DevOps & Infraestrutura
-- Docker  
-- Docker Compose  
-- PostgreSQL  
-- Linux (Ubuntu Server)  
-- Nginx  
-- SSH  
-
-### Segurança
-- JWT Authentication  
-- Controle de acesso baseado em roles  
-- Boas práticas de arquitetura segura  
-
+| Área                         | Tecnologias                                                                                     |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Backend**                  | Python • FastAPI • Flask • Node.js                                                              |
+| **Dados, IA & Visualização** | Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • Matplotlib • Seaborn • Plotly • Power BI |
+| **DevOps & Infraestrutura**  | Docker • Docker Compose • PostgreSQL • Linux (Ubuntu Server) • Nginx • SSH                      |
+| **Segurança**                | JWT Authentication • Controle de acesso baseado em roles • Arquitetura segura                   |
 ---
 
 ## Experiência Acadêmica  
