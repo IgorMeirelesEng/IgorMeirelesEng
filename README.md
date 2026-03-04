@@ -30,6 +30,7 @@ Tenho forte base em matemática aplicada e estatística, além de experiência p
 - Sistemas escaláveis e seguros  
 
 ---
+## 🛠️ Stack Tecnológica
 
 | Área                         | Tecnologias                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- |
