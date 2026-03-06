@@ -12,7 +12,7 @@ Sou desenvolvedor com foco em **Inteligência Artificial, Engenharia de Dados e 
 Atualmente sou **bolsista de P&D da Samsung**, atuando no **Projeto ECG-AI**, trabalhando com modelagem de dados, desenvolvimento de APIs, arquitetura de sistemas e processamento inteligente de informações.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bacf66f2-404c-4d83-a997-39ff824c1b11" width="400">
+  <img width="524" height="268" alt="image" src="https://github.com/user-attachments/assets/cde65f40-1e0a-40f5-9c69-08b5a1455740" />
 </p>
 
 Tenho forte base em matemática aplicada e estatística, além de experiência prática com infraestrutura, containerização, ambientes produtivos e visualização estratégica de dados.
