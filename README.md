@@ -68,4 +68,4 @@ Com foco em performance, segurança, tomada de decisão orientada a dados e impa
 
 ---
 
-Aberto a colaborações em projetos de IA, engenharia de dados, visualização analítica e desenvolvimento backend.
+Aberto a colaborações!
