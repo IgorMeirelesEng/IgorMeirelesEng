@@ -1,15 +1,15 @@
-# 👋 Igor Meireles de Lima Taveira  
+# Igor Meireles de Lima Taveira  
 
-AI Engineer | Data Engineer | Backend Developer  
+AI Engineer | Data Engineer | Software Engineer
 📍 Manaus - AM, Brasil  
 
 ---
 
 ## Sobre mim  
 
-Sou desenvolvedor com foco em **Inteligência Artificial, Engenharia de Dados e Backend**, atuando no desenvolvimento de soluções robustas, seguras e escaláveis.
+Sou desenvolvedor com foco em **Inteligência Artificial, Engenharia de Dados e Engenharia de Software**, atuando no desenvolvimento de soluções robustas, escaláveis e orientada a dados.
 
-Atualmente sou **bolsista de P&D da Samsung**, atuando no **Projeto ECG-AI**, trabalhando com modelagem de dados, desenvolvimento de APIs, arquitetura de sistemas e processamento inteligente de informações.
+Atualmente sou **bolsista de P&D da Samsung**, atuando no **Projeto ECG-UEA**, desenvolvendo soluções envolvendo engenharia de dados, arquitetura de sistemas e processamento inteligente de informações para aplicações em saúde.
 
 <p align="center">
   <img width="524" height="268" alt="image" src="https://github.com/user-attachments/assets/cde65f40-1e0a-40f5-9c69-08b5a1455740" />
@@ -30,23 +30,32 @@ Tenho forte base em matemática aplicada e estatística, além de experiência p
 - Sistemas escaláveis e seguros  
 
 ---
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
-| Área                         | Tecnologias                                                                                     |
-| ---------------------------- | ----------------------------------------------------------------------------------------------- |
-| **Backend**                  | Python • FastAPI • Flask • Node.js                                                              |
-| **Dados, IA & Visualização** | Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • Matplotlib • Seaborn • Plotly • Power BI |
-| **DevOps & Infraestrutura**  | Docker • Docker Compose • PostgreSQL • Linux (Ubuntu Server) • Nginx • SSH                      |
-| **Segurança**                | JWT Authentication • Controle de acesso baseado em roles • Arquitetura segura                   |
+| Área | Tecnologias |
+|------|-------------|
+| **Backend** | Python • FastAPI • Flask • Node.js |
+| **Engenharia de Dados** | Pandas • NumPy • PostgreSQL |
+| **IA & Machine Learning** | Scikit-learn • TensorFlow • PyTorch |
+| **Visualização de Dados** | Matplotlib • Seaborn • Plotly • Power BI |
+| **Infraestrutura, Redes & DevOps** | Linux (Ubuntu Server) • Docker • Docker Compose • Nginx • SSH • TCP/IP • DNS • UFW • Reverse Proxy |
+---
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorMeirelesEng&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMeirelesEng&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
 ## Experiência Acadêmica  
 
-- Monitor de Probabilidade e Estatística  
-- Aplicação prática de Estatística Descritiva e Inferencial em Python  
-- Desenvolvimento de materiais técnicos e apoio acadêmico
-- Aluno Desenvolvedor(Engenharia de Dados) - ECG-AI(Samsung & UEA)
-- Aluno voluntário do Laboratório de Tecnologias e Inovações Quânticas (LATIQ-UEA)
+- Bolsista de P&D — Projeto ECG-AI (Samsung & UEA)
+- Monitor de Probabilidade e Estatística
+- Monitor de Modelagem e Projeto de Sistemas
+- Pesquisador Voluntário — LATIQ/UEA
 
 ---
 
