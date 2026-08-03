@@ -40,19 +40,10 @@ Tenho forte base em matemática aplicada e estatística, além de experiência p
 | **Visualização de Dados** | Matplotlib • Seaborn • Plotly • Power BI |
 | **Infraestrutura, Redes & DevOps** | Linux (Ubuntu Server) • Docker • Docker Compose • Nginx • SSH • TCP/IP • DNS • UFW • Reverse Proxy |
 ---
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorMeirelesEng&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMeirelesEng&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 ## Experiência Acadêmica  
 
-- Bolsista de P&D — Projeto ECG-AI (Samsung & UEA)
+- Bolsista de P&D — Projeto ECG-UEA (Samsung & UEA)
 - Monitor de Probabilidade e Estatística
 - Monitor de Modelagem e Projeto de Sistemas
 - Pesquisador Voluntário — LATIQ/UEA
