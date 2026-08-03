@@ -42,7 +42,7 @@ Tenho forte base em matemática aplicada e estatística, além de experiência p
 ---
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorMeirelesEng&show_icons=true&theme=github_dark&hide_border=true" />
